@@ -1,6 +1,8 @@
 # hackAI-EnergyTechChallenge
 hackAI-EnergyTechChallenge (Трек 1 AI для управления освещением)
 
+пример использования.mp4 - пример работы
+
 # Для запуска:
 ### Cклоньте репозиторий
 ### Запустите файл run_server.bat
